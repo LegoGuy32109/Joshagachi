@@ -30,7 +30,7 @@ All the art was done in Aesprite
 
 # UML
 
-[![](https://raw.github.iu.edu/joshhale/CSCI24000_spring2021_final_project/main/Joshagachi(1).png?token=GHSAT0AAAAAAAAATZ6EUF4CHE2E4HLCMLLYZFNQBDQ)](https://raw.github.iu.edu/joshhale/CSCI24000_spring2021_final_project/main/Joshagachi(1).png?token=GHSAT0AAAAAAAAATZ6EUF4CHE2E4HLCMLLYZFNQBDQ)
+[![](./Joshagachi(1).png)](./Joshagachi(1).png)
 
 # Algorithm
 
