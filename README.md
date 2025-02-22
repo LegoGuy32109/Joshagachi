@@ -24,9 +24,9 @@ All the art was done in Aesprite
 
 
 # Window Titles
-![Joshagachi!](https://raw.github.iu.edu/joshhale/CSCI24000_spring2021_final_project/main/assets/TempTitle.png?token=GHSAT0AAAAAAAAATZ6FLHRJK676IIH2XOYIZFNPAJQ)
-![Games (aand JFrames)](https://raw.github.iu.edu/joshhale/CSCI24000_spring2021_final_project/main/assets/Games.png?token=GHSAT0AAAAAAAAATZ6FBBJ3HIPRQGBOR3B2ZFNPALQ)
-![Yummie's](https://raw.github.iu.edu/joshhale/CSCI24000_spring2021_final_project/main/assets/Yummies.png?token=GHSAT0AAAAAAAAATZ6EX4T37O62JODAZLT4ZFNPAHA)
+![Joshagachi!](./assets/TempTitle.png)
+![Games (aand JFrames)](./assets/Games.png)
+![Yummie's](./assets/Yummies.png)
 
 # UML
 
